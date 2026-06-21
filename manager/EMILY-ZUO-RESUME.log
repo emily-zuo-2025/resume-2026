@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.22)  21 JUN 2026 12:42
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.22)  21 JUN 2026 14:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -571,9 +571,6 @@ Package hyperref Info: Link coloring ON on input line 58.
 \openout3 = `EMILY-ZUO-RESUME.out'.
 
 
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -614,17 +611,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 75.
-[1
-
-]
-
-Package hyperref Warning: Suppressing link with empty target on input line 205.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 208.
-
-
 
 Package hyperref Warning: Suppressing link with empty target on input line 211.
 
@@ -637,28 +623,31 @@ Package hyperref Warning: Suppressing link with empty target on input line 214.
 Package hyperref Warning: Suppressing link with empty target on input line 217.
 
 
-[2] (./EMILY-ZUO-RESUME.aux)
+
+Package hyperref Warning: Suppressing link with empty target on input line 220.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 223.
+
+
+[1
+
+] (./EMILY-ZUO-RESUME.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-Package rerunfilecheck Warning: File `EMILY-ZUO-RESUME.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `EMILY-ZUO-RESUME.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  59F31F919EC5F821C47CA59FB41B992E;530.
+Package rerunfilecheck Info: File `EMILY-ZUO-RESUME.out' has not changed.
+(rerunfilecheck)             Checksum: 59F31F919EC5F821C47CA59FB41B992E;530.
  ) 
 Here is how much of TeX's memory you used:
- 17903 strings out of 468168
- 328746 string characters out of 5432815
- 787364 words of memory out of 5000000
- 46431 multiletter control sequences out of 15000+600000
+ 17904 strings out of 468168
+ 328748 string characters out of 5432815
+ 791364 words of memory out of 5000000
+ 46432 multiletter control sequences out of 15000+600000
  631012 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,9n,93p,1205b,337s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,9n,93p,1205b,336s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on EMILY-ZUO-RESUME.pdf (2 pages).
+Output written on EMILY-ZUO-RESUME.pdf (1 page).
